@@ -1,17 +1,17 @@
 body{
-    color: rgb(0, 255, 255)
+    color: rgb(4, 16, 85)
     background-color:black;
 }
 
 header {
-     border-bottom: solid 2px rgb(42, 122, 228)
+     border-bottom: solid 2px rgb(0, 0, 0)
      padding: 20px;
      font-size: 32px;
      color: rgb(42, 122, 228);
 
 }
 section{
-    background-color: bisque
+    background-color: rgb(85, 61, 31)
     padding top: 80px;
     padding bottom: 80px;
     display:flex;
