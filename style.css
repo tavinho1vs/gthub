@@ -1,5 +1,5 @@
 body {
-    color: rgb(36, 49, 128);
+    color: rgb(255, 255, 255);
     background-color: rgb(112, 18, 18);
 }
 
@@ -7,7 +7,7 @@ header {
     border-bottom: solid 2px rgb(126, 24, 24);
     padding: 20px;
     font-size: 32px;
-    color: rgb(31, 61, 100);
+    color: rgb(255, 255, 255);
 
 }
 
